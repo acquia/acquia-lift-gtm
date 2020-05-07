@@ -2,5 +2,5 @@ homepage: "https://www.acquia.com"
 documentation: "https://docs.acquia.com/lift/profile-mgr/gtm/"
 versions:
 #Update sha with each version
-  - sha: a26d3dba880bb5a27fd97f5ebac2b0335a06073e
+  - sha: bcf5e2fd535bb687448d829375a06d2f0f13e878
     changeNotes: Initial release.

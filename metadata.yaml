@@ -2,7 +2,7 @@ homepage: "https://www.acquia.com"
 documentation: "https://docs.acquia.com/lift/profile-mgr/gtm/"
 versions:
 #Update sha with each version
-  - sha: bcf5e2fd535bb687448d829375a06d2f0f13e878
+  - sha: 9426e59d6e8c5da03a9c18f53e2ca3804acda5ad
     changeNotes: |2
-      Added functionality to pass engagement score with events++++.
+      Added functionality to pass engagement score with events.
       Updated validation rules for event custom parameters to allow person_udf input.
